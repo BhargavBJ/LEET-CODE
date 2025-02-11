@@ -8,5 +8,4 @@ class Solution:
             
         return False
     
-a = Solution()
-print(a.containsDuplicate([1,1,2,3,4,1,2,3,9]))
+#Link : https://leetcode.com/problems/contains-duplicate/description/
