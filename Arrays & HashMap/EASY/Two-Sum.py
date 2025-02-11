@@ -7,3 +7,5 @@ class Solution:
                     l.append(i)
                     l.append(j)
         return l
+
+#Link : https://leetcode.com/problems/two-sum/description/
