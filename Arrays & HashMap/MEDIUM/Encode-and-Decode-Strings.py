@@ -27,9 +27,7 @@ class Solution:
                 l.remove(i)
         return l
         
-    
-s= Solution()
-print(s.encode(['neet','code','love','you']))
-print(s.decode(s.encode(['neet','code','love','you'])))
+#Link if you do not have premium access in leetcode: https://neetcode.io/problems/string-encode-and-decode
+#Official leetcode Link:https://leetcode.com/problems/encode-and-decode-strings/description/
 
 
