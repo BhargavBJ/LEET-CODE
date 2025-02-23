@@ -11,4 +11,4 @@ class Solution:
             post *=nums[i]
         return res
 
-        
+#Link:https://leetcode.com/problems/product-of-array-except-self/
