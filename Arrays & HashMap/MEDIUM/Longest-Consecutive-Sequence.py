@@ -24,3 +24,5 @@ class Solution:
                 mp[num + mp[num + 1]] = mp[num]
                 res = max(res, mp[num])
         return res
+
+#Link : https://leetcode.com/problems/longest-consecutive-sequence/description/
