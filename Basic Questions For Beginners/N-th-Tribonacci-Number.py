@@ -1,9 +1,6 @@
 class Solution:
     def tribonacci(self, n: int) -> int:
-        a = 0
-        b = 1
-        c = 1
-        d = 0
+        a,b,c,d = 0,1,1,0
         if n ==0:
             return 0
         elif n==1:
@@ -16,5 +13,6 @@ class Solution:
                 a = b
                 b = c
                 c = d
-                #print(a," ",b , "",c,"",d)
+                #print(a," ",b , "",c,"",d) For Trouble Shooting
         return d
+#Link: https://leetcode.com/problems/n-th-tribonacci-number/
