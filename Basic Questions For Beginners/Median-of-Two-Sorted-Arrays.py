@@ -15,4 +15,5 @@ class Solution:
         elif len(l) % 2 ==1:
             a = len(l) //2
             return l[a]
-        
+
+#Link : https://leetcode.com/problems/median-of-two-sorted-arrays/description/
