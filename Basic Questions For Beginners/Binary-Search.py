@@ -12,4 +12,5 @@ class Solution:
             else:
                 return mid
         return -1
-        
+
+#Link :- https://leetcode.com/problems/binary-search/
