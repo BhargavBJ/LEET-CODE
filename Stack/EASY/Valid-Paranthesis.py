@@ -10,4 +10,6 @@ class Solution:
                     return False
             else:
                 stack.append(i)
-        return not stack
+        return not stack #Returns True only when all the elemets in the stack is popped, i.e, The stack is empty
+
+#Link: https://leetcode.com/problems/valid-parentheses/description/
