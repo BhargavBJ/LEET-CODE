@@ -13,3 +13,5 @@ class Solution:
             dividend -= temp
             quotient += multiple
         return -quotient if negative else quotient
+
+#Link : https://leetcode.com/problems/divide-two-integers/description/
