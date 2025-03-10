@@ -8,7 +8,7 @@ class Solution:
             m = (l+r)//2
             hrs = 0
             for p in piles:
-                hrs += math.ceil(p/m)
+                hrs += math.ceil(float(p/m))
             if hrs <= h:
                 res = min(res,m)
                 r = m-1
