@@ -28,7 +28,7 @@ If you experience or witness any behavior that violates this Code of Conduct, pl
 Violations of this Code of Conduct will be reviewed and addressed accordingly. Actions may include warnings, temporary bans, or permanent removal from the community, depending on the severity of the violation.
 
 ## Contact
-For any concerns related to this Code of Conduct, please reach out to the repository maintainer(Email: bjbhargav600@gmail.com).
+For any concerns related to this Code of Conduct, please reach out to the repository maintainer(Email: bjbhargav60@gmail.com).
 
 By participating in this project, you agree to abide by this Code of Conduct.
 
