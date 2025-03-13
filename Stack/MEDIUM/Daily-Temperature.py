@@ -9,3 +9,5 @@ class Solution:
                 res[sInd]=(i-sInd)
             stack.append((n,i))
         return res
+
+#Link : https://leetcode.com/problems/daily-temperatures/description/
