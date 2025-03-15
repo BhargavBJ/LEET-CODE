@@ -8,3 +8,5 @@ class Solution:
             else:
                 i+=1
         return False
+
+#Link:https://leetcode.com/problems/power-of-three/
