@@ -8,3 +8,5 @@ class Solution:
                 count += 1
             org //= 10
         return count
+
+#Link : https://leetcode.com/problems/count-the-digits-that-divide-a-number/
