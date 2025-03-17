@@ -8,6 +8,7 @@ class Solution:
                 count += 1
         return count
 '''
+# Classic Approach
 class Solution:
     def countDigits(self, num: int) -> int:
         org = num
