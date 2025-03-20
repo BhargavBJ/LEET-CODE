@@ -5,8 +5,6 @@ class Node:
         self.random = random
 
 
-from typing import Optional
-from xml.dom import Node
 
 
 class Solution:
