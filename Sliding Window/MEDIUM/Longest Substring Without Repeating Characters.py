@@ -9,3 +9,5 @@ class Solution:
             charS.add(s[r])
             res = max(res, r-l+1)
         return res
+
+#Link: https://leetcode.com/problems/longest-substring-without-repeating-characters/description/
