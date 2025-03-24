@@ -11,3 +11,5 @@ class Solution:
                 l = r
             r+=1
         return maxProfit
+
+#Link: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
