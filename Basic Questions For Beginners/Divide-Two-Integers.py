@@ -14,4 +14,4 @@ class Solution:
             quotient += multiple
         return -quotient if negative else quotient
 
-#Link : https://leetcode.com/problems/divide-two-integers/description/
+#Link : https://leetcode.com/problems/divide-two-integers/
