@@ -12,4 +12,4 @@ class Solution:
                 continue
         return count
 
-#Link : https://leetcode.com/problems/number-of-1-bits/description/
+#Link : https://leetcode.com/problems/number-of-1-bits/
