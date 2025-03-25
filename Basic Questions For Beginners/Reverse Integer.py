@@ -7,4 +7,4 @@ class Solution:
             return 0
         return res
 
-#Link : https://leetcode.com/problems/reverse-integer/description/
+#Link : https://leetcode.com/problems/reverse-integer/
