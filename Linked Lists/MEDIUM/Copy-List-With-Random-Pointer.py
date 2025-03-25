@@ -23,4 +23,4 @@ class Solution:
             cur = cur.next
         return oldToCopy[head]
 
-#Link : https://leetcode.com/problems/copy-list-with-random-pointer/description/
+#Link : https://leetcode.com/problems/copy-list-with-random-pointer/
