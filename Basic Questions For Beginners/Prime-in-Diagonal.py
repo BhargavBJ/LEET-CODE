@@ -18,4 +18,4 @@ class Solution:
                 largest_prime = max(largest_prime, nums[i][n-i-1])
         return largest_prime
 
-#Link : https://leetcode.com/problems/prime-in-diagonal/description/
+#Link : https://leetcode.com/problems/prime-in-diagonal/
