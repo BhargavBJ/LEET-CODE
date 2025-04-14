@@ -6,3 +6,5 @@ class Solution:
         for num,count in a.items():
             if count == 1:
                 return num
+
+# Link: https://leetcode.com/problems/single-number-ii/
