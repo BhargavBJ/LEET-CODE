@@ -57,7 +57,7 @@ Backtracking → 1-D DP
 1-D DP → Bit Manipulation  
 ```
 
-> 📚 Start with Arrays and Hashing, then follow the arrows to gradually unlock more complex topics.
+> 📚 Start with Arrays and Hashing, then follow the arrows to gradually unlock more complex topics. <br>
 > Each folder contains problems with solutions in various languages, well-commented, and with a link to the source.
 
 
