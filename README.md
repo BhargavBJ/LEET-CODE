@@ -59,23 +59,8 @@ Backtracking → 1-D DP
 
 > 📚 Start with Arrays and Hashing, then follow the arrows to gradually unlock more complex topics.
 
----
 
-## 📁 Folder Structure (It could vary based on github's sorting method)
 
-```
-LEET-CODE/
-├── Arrays/
-├── Trees/
-├── Graphs/
-├── Dynamic_Programming/
-├── Backtracking/
-├── Stack/
-├── LinkedList/
-├── Tries/
-├── Heap/
-└── ...
-```
 
 Each folder contains problems with solutions in various languages, well-commented, and with a link to the source.
 
