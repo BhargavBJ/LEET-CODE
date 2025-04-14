@@ -58,11 +58,7 @@ Backtracking → 1-D DP
 ```
 
 > 📚 Start with Arrays and Hashing, then follow the arrows to gradually unlock more complex topics.
-
-
-
-
-Each folder contains problems with solutions in various languages, well-commented, and with a link to the source.
+> Each folder contains problems with solutions in various languages, well-commented, and with a link to the source.
 
 
 ---
