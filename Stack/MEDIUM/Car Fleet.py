@@ -8,3 +8,5 @@ class Solution:
             if len(stack) >= 2 and stack[-1] <= stack[-2]:
                 stack.pop()
         return len(stack)
+
+# Link : https://leetcode.com/problems/car-fleet/
