@@ -1,9 +1,10 @@
 # Definition for singly-linked list.
-class ListNode:
-    def __init__(self, val=0, next=None):
-        self.val = val
-        self.next = next
 from typing import Optional
+
+# class ListNode:
+#     def __init__(self, val=0, next=None):
+#         self.val = val
+#         self.next = next
 
 
 class Solution:
@@ -20,3 +21,5 @@ class Solution:
             dummy.next = ListNode(i)
             dummy=dummy.next
         return link.next
+
+#Link : https://leetcode.com/problems/remove-linked-list-elements/
