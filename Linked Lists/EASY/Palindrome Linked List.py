@@ -12,3 +12,5 @@ class Solution:
         if li == li[::-1]:
             return True
         return False
+
+# Link : https://leetcode.com/problems/palindrome-linked-list/
