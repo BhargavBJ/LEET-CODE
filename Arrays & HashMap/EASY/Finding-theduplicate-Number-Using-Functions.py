@@ -5,3 +5,5 @@ class Solution:
         duplicates = [num for num, freq in count.items() if freq > 1]
         print("Repeated elements:", duplicates[0])
         return duplicates[0]
+
+#Link : https://leetcode.com/problems/find-the-duplicate-number/description/
