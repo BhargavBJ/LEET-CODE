@@ -8,5 +8,5 @@ class Solution:
         for i,j in h.items():
             if j>1:
                 return i
-            
 
+# Link : https://leetcode.com/problems/find-the-duplicate-number/
