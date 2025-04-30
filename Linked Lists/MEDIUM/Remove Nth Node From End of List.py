@@ -20,3 +20,4 @@ class Solution:
             dummy=dummy.next
         return link.next
 
+#Link: https://leetcode.com/problems/remove-nth-node-from-end-of-list/
