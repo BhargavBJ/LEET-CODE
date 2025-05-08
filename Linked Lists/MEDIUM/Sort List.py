@@ -17,4 +17,4 @@ class Solution:
             dummy=dummy.next
         return link.next
 
-# Link : https://leetcode.com/problems/sort-list/description/?envType=problem-list-v2&envId=linked-list
+# Link : https://leetcode.com/problems/sort-list/description/
