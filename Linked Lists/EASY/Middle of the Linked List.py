@@ -18,4 +18,4 @@ class Solution:
             dummy=dummy.next
         return link.next
 
-# Link : https://leetcode.com/problems/middle-of-the-linked-list/description/?env
+# Link : https://leetcode.com/problems/middle-of-the-linked-list/description/
