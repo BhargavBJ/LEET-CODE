@@ -17,3 +17,5 @@ class Solution:
             dummy.next = ListNode(i)
             dummy=dummy.next
         return link.next
+
+# Link : https://leetcode.com/problems/middle-of-the-linked-list/description/?env
