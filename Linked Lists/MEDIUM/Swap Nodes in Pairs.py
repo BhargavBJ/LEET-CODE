@@ -14,4 +14,4 @@ class Solution:
             prev, cur = cur, cur.next
         return ans or head
 
-#Link :  https://leetcode.com/problems/swap-nodes-in-pairs/description/?envType=problem-list-v2&envId=linked-list
+#Link :  https://leetcode.com/problems/swap-nodes-in-pairs/description/
