@@ -13,3 +13,5 @@ class Solution:
             cur.next, adj.next = adj.next, cur
             prev, cur = cur, cur.next
         return ans or head
+
+#Link :  https://leetcode.com/problems/swap-nodes-in-pairs/description/?envType=problem-list-v2&envId=linked-list
