@@ -3,7 +3,6 @@ class Solution:
         n = len(heights)
         maxArea = 0
         stack = []
-
         for i in range(n + 1):
             while stack and (i == n  or heights[stack[-1]] >= heights[i]):
                 height = heights[stack.pop()]
@@ -11,3 +10,5 @@ class Solution:
                 maxArea = max(maxArea, height * width)
             stack.append(i)
         return maxArea
+
+# Link : https://leetcode.com/problems/largest-rectangle-in-histogram/
