@@ -12,3 +12,4 @@ class Solution:
             return True
         return False
       
+# Link : https://leetcode.com/problems/three-consecutive-odds/description/
