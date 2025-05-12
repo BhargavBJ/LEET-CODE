@@ -13,3 +13,5 @@ class Solution:
             freq[x1]+=1
             freq[x2]+=1
         return ans
+
+# Link : https://leetcode.com/problems/finding-3-digit-even-numbers/description/
