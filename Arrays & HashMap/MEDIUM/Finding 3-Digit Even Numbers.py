@@ -12,3 +12,5 @@ class Solution:
                         nums.add(num)
         res = sorted(list(nums))
         return res
+
+# Link : https://leetcode.com/problems/finding-3-digit-even-numbers/description/
