@@ -7,4 +7,4 @@ class Solution:
                 return [l[d],i]
             l[n]=i
 
-#Link : https://leetcode.com/problems/two-sum/description/
+#Link : https://leetcode.com/problems/two-sum/
