@@ -7,4 +7,4 @@ class Solution:
                 return True
         return False
 
-#Link : https://leetcode.com/problems/valid-anagram/description/
+#Link : https://leetcode.com/problems/valid-anagram/
