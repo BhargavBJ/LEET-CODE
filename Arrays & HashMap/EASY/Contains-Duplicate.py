@@ -8,4 +8,4 @@ class Solution:
             
         return False
     
-#Link : https://leetcode.com/problems/contains-duplicate/description/
+#Link : https://leetcode.com/problems/contains-duplicate/
