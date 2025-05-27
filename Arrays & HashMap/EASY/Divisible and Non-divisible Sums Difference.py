@@ -7,3 +7,5 @@ class Solution:
             else:
                 li1.append(i)
         return sum(li1) - sum(li2)
+
+#Link : https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/
