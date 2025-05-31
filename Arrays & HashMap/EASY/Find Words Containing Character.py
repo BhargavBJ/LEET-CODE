@@ -7,4 +7,4 @@ class Solution:
         print(li)
         return li
 
-# Link: https://leetcode.com/problems/find-words-containing-character/description/
+# Link: https://leetcode.com/problems/find-words-containing-character/
