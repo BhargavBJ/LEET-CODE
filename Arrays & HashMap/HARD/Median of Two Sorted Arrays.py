@@ -13,4 +13,4 @@ class Solution:
         c =sorted(nums1+nums2)
         return float(self.median(c))
     
-#Link : https://leetcode.com/problems/median-of-two-sorted-arrays/description/
+#Link : https://leetcode.com/problems/median-of-two-sorted-arrays/
