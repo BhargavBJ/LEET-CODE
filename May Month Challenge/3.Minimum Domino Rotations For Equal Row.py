@@ -15,3 +15,5 @@ class Solution:
             if valid:
                 res = min(res, top_swaps, bottom_swaps)
         return -1 if res == float('inf') else res
+
+#Link : https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/?envType=daily-question&envId=2025-05-03
