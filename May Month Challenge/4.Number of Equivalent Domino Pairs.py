@@ -9,3 +9,5 @@ class Solution:
         for freq in count_map.values():
             count += freq * (freq - 1) // 2
         return count
+
+#Link: https://leetcode.com/problems/number-of-equivalent-domino-pairs/?envType=daily-question&envId=2025-05-04
