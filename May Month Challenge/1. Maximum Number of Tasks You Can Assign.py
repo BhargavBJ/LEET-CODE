@@ -4,12 +4,10 @@ class Solution:
     def maxTaskAssign(self, tasks, workers, pills, strength):
         tasks.sort()
         workers.sort()
-
         def can_assign(mid):
             boosted = deque()
             w = len(workers) - 1
             free_pills = pills
-
             for t in reversed(tasks[:mid]):
                 if boosted and boosted[0] >= t:
                     boosted.popleft()
@@ -24,7 +22,6 @@ class Solution:
                     boosted.pop()
                     free_pills -= 1
             return True
-
         low, high = 0, min(len(tasks), len(workers))
         while low < high:
             mid = (low + high + 1) // 2
@@ -33,3 +30,5 @@ class Solution:
             else:
                 high = mid - 1
         return low
+
+#Link : https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign/?envType=daily-question&envId=2025-05-01
