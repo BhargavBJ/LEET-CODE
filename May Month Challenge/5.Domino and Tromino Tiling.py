@@ -25,4 +25,7 @@ class Solution:
                 + full_cover[width - 2]
             ) % MOD
         
-        return full_cover[n]         
+        return full_cover[n]   
+
+
+# Link : https://leetcode.com/problems/domino-and-tromino-tiling/?envType=daily-question&envId=2025-05-05
