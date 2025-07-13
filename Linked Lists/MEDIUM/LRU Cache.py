@@ -37,3 +37,6 @@ class LRUCache:
             lru = self.left.next
             self.remove(lru)
             del self.cache[lru.key]
+
+
+# Link : https://leetcode.com/problems/lru-cache/description/
